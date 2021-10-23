@@ -1,0 +1,21 @@
+[
+    {
+    "id": 1,
+    "name": "Blog 1",
+    "description": "Dental care is the maintenance of healthy teeth and may refer to: Oral hygiene, the practice of keeping the mouth and teeth clean in order to prevent dental disorders.",
+    "img": "http://www.webstrot.com/html/tm/lifeline/images/blog_img_1.jpg"
+  },
+    {
+    "id": 2,    
+    "name": "Blog 2",
+    "description": "This is your go-to provider when you need routine preventive care like regular teeth cleanings, exams, and X-rays.",
+    "img": "http://www.webstrot.com/html/tm/lifeline/images/blog_img_2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Blog 3",
+    "description": "A degree in the subject may be awarded either by a University college dedicated to the studies of hospitality management or a business school with a relevant department.",
+    "img": "http://www.webstrot.com/html/tm/lifeline/images/blog_img_3.jpg"
+  }
+
+]

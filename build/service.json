@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Diagnostic Tests",
+      "description": "Identify specific  areas of weakness or strength in order determine a condition or illness or diseases.",
+      "img": "https://cordis.europa.eu/docs/news/images/2020-05/418046.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cardiac CT",
+      "description": "An imaging method that uses x-rays to create detailed pictures of the heart and its's blood vessels.",
+      "img": "https://h2hcardiaccenter.com/blog/wp-content/uploads/2018/04/6a00e5520572bb883401b7c88558b7970b.png"
+    },
+    {
+      "id": 3,
+      "name": "Whole Body MRI",
+      "description": "A diagnostic technique that utilises radio waves and a strong magnetic field to create images of the body.",
+      "img": "https://www.openaccessgovernment.org/wp-content/uploads/2020/02/MRI-pic_1200.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sonography Tests",
+      "description": "Facing issues in abdominal areas, reproductuctive organs or heart? Our Sonography test helps in identifying.",
+      "img": "https://i.ytimg.com/vi/NoueuEDGcto/maxresdefault.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Opthalmology",
+      "description": "Learn about the phases of thyroid eye disease & what you can do to get treatment. Health Information. Symptoms. Risk Factors.",
+      "img": "https://www.expatica.com/app/uploads/sites/3/2014/05/dentistsinNL.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dental Care",
+      "description": "Facing issues in abdominal areas, reproductuctive organs or heart? Our Sonography test helps in identifying.",
+      "img": "https://media.proprofs.com/images/QM/user_images/2503852/New%20Project%20(44)(56).jpg"
+    },
+    {
+      "id": 7,
+      "name": "Outdoor Checkup",
+      "description": "Even though people are healthy, they need regular check-ups, which is why we do outdoor check-ups.",
+      "img": "https://www.vijethahospitalvizag.com/images/outdoor.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Baby Checkup",
+      "description": "Facing issues in abdominal areas, reproductuctive organs or heart? Our Sonography test helps in identifying.",
+      "img": "https://64.media.tumblr.com/1601f65d0792f1c9969ab73759c0d513/23b99ccb2a773f77-ff/s1280x1920/af26a7d18397ffbd9658d41856beadc29d7256d8.jpg"
+    }
+   
+  ]

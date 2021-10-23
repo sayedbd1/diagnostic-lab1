@@ -1,0 +1,30 @@
+.btn-right{
+    text-align: right;
+    padding: 7px 30px;
+    border-radius: 5px;
+    background-color: #01A8EF;
+    border: none;
+}
+.top{
+    background-color: #FAFBFD;
+   
+}
+.navbar-dark .navbar-toggler {
+  
+    border-color: black;
+}
+.header {
+    text-decoration: none !important;
+}
+.name{
+    text-decoration: none;
+    color: #222;
+    font-weight: 600;
+}
+.log-btn{
+    border: none;
+    padding: 4px 15px;
+    background-color: #0D6EFD;
+    border-radius: 6px;
+    color: #fff;
+}

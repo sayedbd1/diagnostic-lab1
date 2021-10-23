@@ -1,0 +1,11 @@
+.login-form{
+padding:0 30%;
+
+}
+.bg-google{
+    background-color: #0D6EFD;
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+    padding: 0 20px;
+}
